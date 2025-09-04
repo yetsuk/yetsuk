@@ -5,7 +5,9 @@ Pour me présenter brièvement !
 Je suis diplômé en **Data Science** et je développe mes compétences dans ce domaine avec un fort intérêt pour :  
 - 🤖 **Machine Learning**  
 - 🧠 **Deep Learning**  
-- 🌐 **Analyse de réseaux** (social networks, graphes, réseaux complexes)  
+- 🌐 **Analyse de réseaux** (social networks, graphes, réseaux complexes)
+- 📑 **Text Mining**  
+- 🗣️ **Traitement automatique du langage (NLP)** 
 
 
 ## Bagage technique
