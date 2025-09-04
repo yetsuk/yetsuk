@@ -21,6 +21,7 @@ Passionné par l'analyse de donnée et la data science, je souhaite utiliser les
 <img align="left" alt="Streamlit" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
 <br />
 
+#
 ## En cours d'apprentissage
 
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
