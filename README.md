@@ -1,5 +1,6 @@
 # 👋 Salut, je suis Yamine MOHAMED aka Yetsu
 ** Aspirant Data Scientist
+j'ai pas fini juger pas la page !!!!
 
 Passionné par l'analyse de donnée et la data science, je souhaite utiliser les outils qui m'ont était partagé comme outil d'observation et d'analayse du monde numérique. Ainsi, je m'intéresse énormément au méthode d'analyse de réseau, de machine learning et de deep learning.
 
