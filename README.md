@@ -42,7 +42,7 @@ Je souhaite vous partager les projets sur lesquels j'ai travaillé au cours de m
 
 #
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=yetsuk&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yetsuk&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 ✨ *Toujours en quête d’apprentissage et de nouvelles collaborations !*
