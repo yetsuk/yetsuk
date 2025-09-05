@@ -12,6 +12,9 @@ Je suis diplômé en **Data Science** et je développe mes compétences dans ce 
 
 Je souhaite vous partager les projets sur lesquels j'ai travaillé au cours de mon parcours universitaire, en ajoutant quelques modifications. Mon objectif étant de prouver que j'ai les capacité techniques et humaines nécessaires pour être data scientist.
 
+
+
+#
 ## Bagage technique
 
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
