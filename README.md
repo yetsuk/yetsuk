@@ -10,7 +10,7 @@ Je suis diplômé en **Data Science** et je développe mes compétences dans ce 
 - 🗣️ **Traitement automatique du langage (NLP)** 
 
 
-Je souhaite vous partager les projets sur lesquels j'ai pu travaillé au cours de mon parcours universitaire, en ajoutant quelque modification. Mon objectif est de montrer que j'ai la volonté et la détermination qui me permettront un jour d'être un data scientist confirmé.
+Je souhaite vous partager les projets sur lesquels j'ai travaillé au cours de mon parcours universitaire, en ajoutant quelques modifications. Mon objectif étant de prouver que j'ai les capacité techniques et humaines nécessaires pour être data scientist.
 
 ## Bagage technique
 
